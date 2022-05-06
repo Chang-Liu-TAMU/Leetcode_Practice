@@ -2,3 +2,8 @@
 # @Author: chang liu
 # @Email: chang_liu_tamu@gmail.com
 # @File:tree-117-populate-next-right-pointers-in-each-node.py
+
+'''
+not a perfect binary tree
+same method as 116
+'''
