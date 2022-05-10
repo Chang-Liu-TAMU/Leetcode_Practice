@@ -1,7 +1,7 @@
 # @Time: 2022/5/9 21:59
 # @Author: chang liu
 # @Email: chang_liu_tamu@gmail.com
-# @File:dp-longest-palindromic-substring.py
+# @File:dp-5-longest-palindromic-substring.py
 
 class Solution:
     def longestPalindrome(self, s: str) -> str:
