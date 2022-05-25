@@ -1,7 +1,7 @@
 # @Time: 2022/5/20 14:41
 # @Author: chang liu
 # @Email: chang_liu_tamu@gmail.com
-# @File:linked-list-817-latest-linked-list-components.py
+# @File:linked-list-817-linked-list-components.py
 
 
 # Definition for singly-linked list.

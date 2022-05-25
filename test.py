@@ -3,4 +3,9 @@
 # @Email: chang_liu_tamu@gmail.com
 # @File:test.py
 
-print(1 - 4 == -3)
+class obj:
+    def __getitem__(self, item):
+        return item
+
+o = obj()
+print(o[1])

@@ -1,7 +1,7 @@
 # @Time: 2022/5/20 14:32
 # @Author: chang liu
 # @Email: chang_liu_tamu@gmail.com
-# @File:tree-687-latest-longest-univalue-path.py
+# @File:tree-687-longest-univalue-path.py
 
 
 # Definition for a binary tree node.
