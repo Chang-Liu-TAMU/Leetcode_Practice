@@ -1,7 +1,7 @@
 # @Time: 2022/5/25 9:55
 # @Author: chang liu
 # @Email: chang_liu_tamu@gmail.com
-# @File:linked-list-1019-latest-next-greater-node-in-linked-list.py
+# @File:linked-list-1019-next-greater-node-in-linked-list.py
 
 # Definition for singly-linked list.
 # class ListNode:

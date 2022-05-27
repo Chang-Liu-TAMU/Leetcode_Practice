@@ -1,7 +1,7 @@
 # @Time: 2022/5/25 9:22
 # @Author: chang liu
 # @Email: chang_liu_tamu@gmail.com
-# @File:tree-814-latest-binary-tree-pruning.py
+# @File:tree-814-binary-tree-pruning.py
 
 
 # Definition for a binary tree node.
