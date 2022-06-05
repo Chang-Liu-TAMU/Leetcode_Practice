@@ -3,9 +3,5 @@
 # @Email: chang_liu_tamu@gmail.com
 # @File:test.py
 
-class obj:
-    def __getitem__(self, item):
-        return item
 
-o = obj()
-print(o[1])
+print(ord("g"))
