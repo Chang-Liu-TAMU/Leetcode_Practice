@@ -4,4 +4,6 @@
 # @File:test.py
 
 
-print(ord("g"))
+from bisect import bisect
+l = [100, 18, 10, 800]
+print()
