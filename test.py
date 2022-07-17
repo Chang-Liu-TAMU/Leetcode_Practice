@@ -1,13 +1,18 @@
-# @Time: 2022/5/12 20:06
-# @Author: chang liu
-# @Email: chang_liu_tamu@gmail.com
-# @File:test.py
-import re
-def gen():
-    a = 90
-    if a == 10:
-        yield 100
+from collections import Counter
 
-g = gen()
-print(type(g))
-print(list(g))
+class A:
+    def __init__(self):
+        self.show()
+
+    def show(self):
+        print("I am A")
+
+class B(A):
+    def __init__(self):
+        super().__init__()
+
+    def show(self):
+        print("I am B")
+
+
+b = B()

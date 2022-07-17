@@ -1,8 +1,3 @@
-# @Time: 2022/5/10 9:41
-# @Author: chang liu
-# @Email: chang_liu_tamu@gmail.com
-# @File:summary.py
-
 from pathlib import Path
 from collections import defaultdict
 p = Path()
